@@ -1,0 +1,5 @@
+{
+  "run_id": "89",
+  "item_id": "89__linkedin_announcement__v",
+  "ticket": "{\n  \"status\": \"DRAFT\",\n  \"type\": \"linkedin_announcement\",\n  \"subject\": \"\",\n  \"body\": \"Peterson Control Union continues to lead in sustainable solutions by providing comprehensive inspection, certification, and testing services. Committed to helping businesses achieve compliance and enhance their environmental, social, and governance standards, we support your journey towards a more sustainable future. Discover how our expertise can help your company meet the highest standards in supply chain assurance and sustainability.\",\n  \"cta\": \"Learn more about our services and start your sustainability journey with Peterson Control Union today.\",\n  \"hashtags\": [\n    \"#Sustainability\",\n    \"#Certification\",\n    \"#Inspection\",\n    \"#Testing\",\n    \"#SupplyChain\"\n  ],\n  \"feedback\": \"\",\n  \"version\": 1,\n  \"created_at\": \"2025-12-22T15:43:42.918+01:00\",\n  \"updated_at\": \"2025-12-22T15:43:42.918+01:00\"\n}"
+}
